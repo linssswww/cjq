@@ -1,0 +1,2767 @@
+<collection>
+	<product>
+		<eng>hqyz_A</eng>
+		<chn> 火漆印章-A</chn>
+		<Seqcode>4410009083</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_B</eng>
+		<chn> 火漆印章-B</chn>
+		<Seqcode>4410009084</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_C</eng>
+		<chn> 火漆印章-C</chn>
+		<Seqcode>4410009085</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_D</eng>
+		<chn> 火漆印章-D</chn>
+		<Seqcode>4410009086</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_E</eng>
+		<chn> 火漆印章-E</chn>
+		<Seqcode>4410009087</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_F</eng>
+		<chn> 火漆印章-F</chn>
+		<Seqcode>4410009088</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_G</eng>
+		<chn> 火漆印章-G</chn>
+		<Seqcode>4410009089</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_H</eng>
+		<chn> 火漆印章-H</chn>
+		<Seqcode>4410009090</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_I</eng>
+		<chn> 火漆印章-I</chn>
+		<Seqcode>4410009091</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_K</eng>
+		<chn> 火漆印章-K</chn>
+		<Seqcode>4410009093</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_L</eng>
+		<chn> 火漆印章-L</chn>
+		<Seqcode>4410009094</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_M</eng>
+		<chn> 火漆印章-M</chn>
+		<Seqcode>4410009095</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_N</eng>
+		<chn> 火漆印章-N</chn>
+		<Seqcode>4410009096</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_O</eng>
+		<chn> 火漆印章-O</chn>
+		<Seqcode>4410009097</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_P</eng>
+		<chn> 火漆印章-P</chn>
+		<Seqcode>4410009098</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_Q</eng>
+		<chn> 火漆印章-Q</chn>
+		<Seqcode>4410009099</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_U</eng>
+		<chn> 火漆印章-U</chn>
+		<Seqcode>4410009103</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_V</eng>
+		<chn> 火漆印章-V</chn>
+		<Seqcode>4410009104</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_W</eng>
+		<chn> 火漆印章-W</chn>
+		<Seqcode>4410009105</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_X</eng>
+		<chn> 火漆印章-X</chn>
+		<Seqcode>4410009106</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_Y</eng>
+		<chn> 火漆印章-Y</chn>
+		<Seqcode>4410009107</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_Z</eng>
+		<chn> 火漆印章-Z</chn>
+		<Seqcode>4410009108</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_qianlvse_M</eng>
+		<chn>（沙漏）浅绿色M</chn>
+		<Seqcode>4988342163200</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_qianlv_S</eng>
+		<chn>（沙漏）浅绿色S</chn>
+		<Seqcode>4988342163194</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_hailan_M</eng>
+		<chn>（沙漏）海蓝色M</chn>
+		<Seqcode>4988342154666</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_hailan_S</eng>
+		<chn>（沙漏）海蓝色S</chn>
+		<Seqcode>4988342154635</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_huposeM</eng>
+		<chn>（沙漏）琥珀色M</chn>
+		<Seqcode>4988342154659</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_hupose_S</eng>
+		<chn>（沙漏）琥珀色S</chn>
+		<Seqcode>4988342154628</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_toumingse</eng>
+		<chn>（沙漏）透明色</chn>
+		<Seqcode>4988342154673</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_touming_M</eng>
+		<chn>（沙漏）透明色M</chn>
+		<Seqcode>4988342154642</Seqcode>
+	</product>
+	<product>
+		<eng>shalou_touming_S</eng>
+		<chn>（沙漏）透明色S</chn>
+		<Seqcode>4988342154611</Seqcode>
+	</product>
+	<product>
+		<eng>10bq3ft_yuzhouyouyong</eng>
+		<chn>10便签3封套宇宙游泳</chn>
+		<Seqcode>4952270197910</Seqcode>
+	</product>
+	<product>
+		<eng>10bq3ft_walk</eng>
+		<chn>10便签3封套散步</chn>
+		<Seqcode>4952270205004</Seqcode>
+	</product>
+	<product>
+		<eng>10bq3ft_cat</eng>
+		<chn>10便签3封套猫咪</chn>
+		<Seqcode>4952270197972</Seqcode>
+	</product>
+	<product>
+		<eng>10bq3ft_qingniaoyuguoshi</eng>
+		<chn>10便签3封套青鸟与果实</chn>
+		<Seqcode>4952270204960</Seqcode>
+	</product>
+	<product>
+		<eng>155098shuicaibiyinyuehe40_tiehe</eng>
+		<chn>155098 可拼水彩笔音乐盒铁盒装 40支装</chn>
+		<Seqcode>8997010769046</Seqcode>
+	</product>
+	<product>
+		<eng>22kbj78ggbFju_red</eng>
+		<chn>22K包金78G钢笔F咀红色（配笔盒）（新款）</chn>
+		<Seqcode>6940793002734</Seqcode>
+	</product>
+	<product>
+		<eng>22kbj78ggbFju_green</eng>
+		<chn>22K包金78G钢笔F咀绿色（配笔盒）（新款）</chn>
+		<Seqcode>6940793002710</Seqcode>
+	</product>
+	<product>
+		<eng>22kbj78ggbFju_blue</eng>
+		<chn>22K包金78G钢笔F咀蓝色（配笔盒）（新款）</chn>
+		<Seqcode>6940793002727</Seqcode>
+	</product>
+	<product>
+		<eng>22kbj78ggbFju_black</eng>
+		<chn>22K包金78G钢笔F咀黑色（配笔盒）（新款）</chn>
+		<Seqcode>6940793002703</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_jita</eng>
+		<chn>30便签5封套吉他</chn>
+		<Seqcode>4952270197774</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_fushiyinghua</eng>
+		<chn>30便签5封套富士樱花</chn>
+		<Seqcode>4952270189540</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_cat</eng>
+		<chn>30便签5封套小猫</chn>
+		<Seqcode>4952270160907</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_chaiquan</eng>
+		<chn>30便签5封套柴犬</chn>
+		<Seqcode>4952270197811</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_panda</eng>
+		<chn>30便签5封套熊猫</chn>
+		<Seqcode>4952270160860</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_maoyushu</eng>
+		<chn>30便签5封套猫与书</chn>
+		<Seqcode>4952270204915</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_caomei</eng>
+		<chn>30便签5封套草莓</chn>
+		<Seqcode>4952270197736</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_gangbi</eng>
+		<chn>30便签5封套钢笔</chn>
+		<Seqcode>4952270197750</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_flower</eng>
+		<chn>30便签5封套鲜花</chn>
+		<Seqcode>4952270162765</Seqcode>
+	</product>
+	<product>
+		<eng>30bq5ftao_hequan</eng>
+		<chn>30便签5封套黑犬</chn>
+		<Seqcode>4952270204908</Seqcode>
+	</product>
+	<product>
+		<eng>365jingdianbijiben_A6red</eng>
+		<chn>365经典笔记本A6红</chn>
+		<Seqcode>4904140081126</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_chengsehuaduo</eng>
+		<chn>88G自来水笔F咀  橙色花朵</chn>
+		<Seqcode>4902505504877</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_qianlanyuandian</eng>
+		<chn>88G自来水笔F咀  浅蓝圆点</chn>
+		<Seqcode>4902505504891</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_huisexiyi</eng>
+		<chn>88G自来水笔F咀  灰色蜥蜴</chn>
+		<Seqcode>4902505473449</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_baisehuwen</eng>
+		<chn>88G自来水笔F咀  白色虎纹</chn>
+		<Seqcode>4902505473425</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_ziseyuanquan</eng>
+		<chn>88G自来水笔F咀  紫色圆圈</chn>
+		<Seqcode>4902505504853</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_zisebaowen</eng>
+		<chn>88G自来水笔F咀  紫色豹纹</chn>
+		<Seqcode>4902505473418</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_hongsebowen</eng>
+		<chn>88G自来水笔F咀  红色波纹</chn>
+		<Seqcode>4902505504860</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_yinsemangwen</eng>
+		<chn>88G自来水笔F咀  银色蟒纹</chn>
+		<Seqcode>4902505473456</Seqcode>
+	</product>
+	<product>
+		<eng>88gzlsbFj_heisepingwen</eng>
+		<chn>88G自来水笔F咀  黑色平纹</chn>
+		<Seqcode>4902505457746</Seqcode>
+	</product>
+	<product>
+		<eng>88GzlsbFj_heiseewen</eng>
+		<chn>88G自来水笔F咀  黑色鳄纹</chn>
+		<Seqcode>4902505473432</Seqcode>
+	</product>
+	<product>
+		<eng>A5guizubijibenshutao_chase</eng>
+		<chn>A5贵族笔记本书套茶色</chn>
+		<Seqcode>4990168049972</Seqcode>
+	</product>
+	<product>
+		<eng>A5guizubijibenshutao_black</eng>
+		<chn>A5贵族笔记本书套黑色</chn>
+		<Seqcode>4990168049965</Seqcode>
+	</product>
+	<product>
+		<eng>A5guizubijibenfangge</eng>
+		<chn>A5贵族笔记本方格</chn>
+		<Seqcode>4990168048364</Seqcode>
+	</product>
+	<product>
+		<eng>A6fanggebijiben</eng>
+		<chn>A6方格笔记本</chn>
+		<Seqcode>4990168050022</Seqcode>
+	</product>
+	<product>
+		<eng>A6hengjianbijiben</eng>
+		<chn>A6横间笔记本</chn>
+		<Seqcode>4990168050039</Seqcode>
+	</product>
+	<product>
+		<eng>aerobase_fuke_drl</eng>
+		<chn>AEROBASE 福克Dr1号</chn>
+		<Seqcode>4518525901055</Seqcode>
+	</product>
+	<product>
+		<eng>aozora_12_labi</eng>
+		<chn>aozora 12色 蜡笔</chn>
+		<Seqcode>4571397652753</Seqcode>
+	</product>
+	<product>
+		<eng>aozora_hunselabi_yinxiangpai</eng>
+		<chn>aozora 混色蜡笔 印象派</chn>
+		<Seqcode>4571397652746</Seqcode>
+	</product>
+	<product>
+		<eng>AOZORA_labi_6</eng>
+		<chn>AOZORA儿童蜡笔6色</chn>
+		<Seqcode>4571397652777</Seqcode>
+	</product>
+	<product>
+		<eng>B5guizubijibenhengjian</eng>
+		<chn>B5贵族笔记本横间</chn>
+		<Seqcode>4990168048418</Seqcode>
+	</product>
+	<product>
+		<eng>B5guizubijibenkongbai</eng>
+		<chn>B5贵族笔记本空白</chn>
+		<Seqcode>4990168048388</Seqcode>
+	</product>
+	<product>
+		<eng>B6hengjianbijiben</eng>
+		<chn>B6横间笔记本</chn>
+		<Seqcode>4990168050015</Seqcode>
+	</product>
+	<product>
+		<eng>B6guizubijiben_kongbai</eng>
+		<chn>B6贵族笔记本空白</chn>
+		<Seqcode>4990168048654</Seqcode>
+	</product>
+	<product>
+		<eng>CACTUS_eraser</eng>
+		<chn>CACTUS系列 橡皮擦单个装</chn>
+		<Seqcode>8414034610296</Seqcode>
+	</product>
+	<product>
+		<eng>DreamalittledreamLPZ307</eng>
+		<chn>Dream a little dream-LPZ307</chn>
+		<Seqcode>4810001022</Seqcode>
+	</product>
+	<product>
+		<eng>FlowerHouseLPZ308</eng>
+		<chn>Flower House-LPZ308</chn>
+		<Seqcode>4810001023</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_fennen</eng>
+		<chn>Hi-Tec-C Maica 0.4 嫩粉</chn>
+		<Seqcode>4902505452956</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_xing</eng>
+		<chn>Hi-Tec-C Maica 0.4 杏</chn>
+		<Seqcode>4902505452932</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_brown</eng>
+		<chn>Hi-Tec-C Maica 0.4 棕</chn>
+		<Seqcode>4902505452994</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_orange</eng>
+		<chn>Hi-Tec-C Maica 0.4 橙</chn>
+		<Seqcode>4902505452949</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_qianlan</eng>
+		<chn>Hi-Tec-C Maica 0.4 浅蓝</chn>
+		<Seqcode>4902505452918</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_pink</eng>
+		<chn>Hi-Tec-C Maica 0.4 粉</chn>
+		<Seqcode>4902505452963</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_purple</eng>
+		<chn>Hi-Tec-C Maica 0.4 紫</chn>
+		<Seqcode>4902505452970</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_red</eng>
+		<chn>Hi-Tec-C Maica 0.4 红</chn>
+		<Seqcode>4902505452895</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_green</eng>
+		<chn>Hi-Tec-C Maica 0.4 绿</chn>
+		<Seqcode>4902505452925</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_blue</eng>
+		<chn>Hi-Tec-C Maica 0.4 蓝</chn>
+		<Seqcode>4902505452901</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_black</eng>
+		<chn>Hi-Tec-C Maica 0.4 黑</chn>
+		<Seqcode>4902505452888</Seqcode>
+	</product>
+	<product>
+		<eng>HiTecCMaica0.4_blackblue</eng>
+		<chn>Hi-Tec-C Maica 0.4 黑蓝</chn>
+		<Seqcode>4902505452987</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5coffee</eng>
+		<chn>Juice百果乐啫喱笔0.5 咖啡色</chn>
+		<Seqcode>4902505450747</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5sky blue</eng>
+		<chn>Juice百果乐啫喱笔0.5 天蓝</chn>
+		<Seqcode>4902505450846</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5nenfen</eng>
+		<chn>Juice百果乐啫喱笔0.5 嫩粉</chn>
+		<Seqcode>4902505451027</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5xingcheng</eng>
+		<chn>Juice百果乐啫喱笔0.5 杏橙</chn>
+		<Seqcode>4902505450761</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5songshilv</eng>
+		<chn>Juice百果乐啫喱笔0.5 松石绿</chn>
+		<Seqcode>4902505450877</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5brown</eng>
+		<chn>Juice百果乐啫喱笔0.5 棕</chn>
+		<Seqcode>4902505450716</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5cherrypink</eng>
+		<chn>Juice百果乐啫喱笔0.5 樱桃粉</chn>
+		<Seqcode>4902505450785</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5orange</eng>
+		<chn>Juice百果乐啫喱笔0.5 橙</chn>
+		<Seqcode>4902505450778</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5shuilan</eng>
+		<chn>Juice百果乐啫喱笔0.5 水蓝</chn>
+		<Seqcode>4902505450860</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5lightgreen</eng>
+		<chn>Juice百果乐啫喱笔0.5 浅绿</chn>
+		<Seqcode>4902505450884</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5lightblue</eng>
+		<chn>Juice百果乐啫喱笔0.5 浅蓝</chn>
+		<Seqcode>4902505450853</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5lightpink</eng>
+		<chn>Juice百果乐啫喱笔0.5 淡粉</chn>
+		<Seqcode>4902505450808</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5deepred</eng>
+		<chn>Juice百果乐啫喱笔0.5 深红</chn>
+		<Seqcode>4902505450730</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5gray</eng>
+		<chn>Juice百果乐啫喱笔0.5 灰</chn>
+		<Seqcode>4902505450907</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5rosepink</eng>
+		<chn>Juice百果乐啫喱笔0.5 玫瑰粉</chn>
+		<Seqcode>4902505450815</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5white</eng>
+		<chn>Juice百果乐啫喱笔0.5 白</chn>
+		<Seqcode>4902505450976</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5pink</eng>
+		<chn>Juice百果乐啫喱笔0.5 粉</chn>
+		<Seqcode>4902505450792</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5pink purple</eng>
+		<chn>Juice百果乐啫喱笔0.5 粉紫</chn>
+		<Seqcode>4902505451010</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5pinkgreen</eng>
+		<chn>Juice百果乐啫喱笔0.5 粉绿</chn>
+		<Seqcode>4902505450990</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5pinkblue</eng>
+		<chn>Juice百果乐啫喱笔0.5 粉蓝</chn>
+		<Seqcode>4902505451003</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5fenhuang</eng>
+		<chn>Juice百果乐啫喱笔0.5 粉黄</chn>
+		<Seqcode>4902505450983</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5purple</eng>
+		<chn>Juice百果乐啫喱笔0.5 紫</chn>
+		<Seqcode>4902505450839</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5red</eng>
+		<chn>Juice百果乐啫喱笔0.5 红</chn>
+		<Seqcode>4902505450686</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5green</eng>
+		<chn>Juice百果乐啫喱笔0.5 绿</chn>
+		<Seqcode>4902505450709</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5grapepurple</eng>
+		<chn>Juice百果乐啫喱笔0.5 葡萄紫</chn>
+		<Seqcode>4902505450822</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5blue</eng>
+		<chn>Juice百果乐啫喱笔0.5 蓝</chn>
+		<Seqcode>4902505450693</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5metal powder</eng>
+		<chn>Juice百果乐啫喱笔0.5 金属粉</chn>
+		<Seqcode>4902505450938</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5metalviolet</eng>
+		<chn>Juice百果乐啫喱笔0.5 金属紫</chn>
+		<Seqcode>4902505450969</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5metalgreen</eng>
+		<chn>Juice百果乐啫喱笔0.5 金属绿</chn>
+		<Seqcode>4902505450945</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5metalblue</eng>
+		<chn>Juice百果乐啫喱笔0.5 金属蓝</chn>
+		<Seqcode>4902505450952</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5gold</eng>
+		<chn>Juice百果乐啫喱笔0.5 金色</chn>
+		<Seqcode>4902505450914</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5silvery</eng>
+		<chn>Juice百果乐啫喱笔0.5 银色</chn>
+		<Seqcode>4902505450921</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5yellow</eng>
+		<chn>Juice百果乐啫喱笔0.5 黄</chn>
+		<Seqcode>4902505450754</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5black</eng>
+		<chn>Juice百果乐啫喱笔0.5 黑</chn>
+		<Seqcode>4902505450679</Seqcode>
+	</product>
+	<product>
+		<eng>Juice_bgl0.5blackblue</eng>
+		<chn>Juice百果乐啫喱笔0.5 黑蓝</chn>
+		<Seqcode>4902505450723</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_orange</eng>
+		<chn>Kakuno学生钢笔F咀 橙（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002413</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_lightgreen</eng>
+		<chn>Kakuno学生钢笔F咀 浅绿（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002406</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_danfen</eng>
+		<chn>Kakuno学生钢笔F咀 淡粉（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002451</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_danzi</eng>
+		<chn>Kakuno学生钢笔F咀 淡紫（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002468</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_danlan</eng>
+		<chn>Kakuno学生钢笔F咀 淡蓝（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002444</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_danhuang</eng>
+		<chn>Kakuno学生钢笔F咀 淡黄（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002475</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_gray</eng>
+		<chn>Kakuno学生钢笔F咀 灰（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002383</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_pink</eng>
+		<chn>Kakuno学生钢笔F咀 粉（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002420</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_red</eng>
+		<chn>Kakuno学生钢笔F咀 红（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002437</Seqcode>
+	</product>
+	<product>
+		<eng>KakunogbFj_blue</eng>
+		<chn>Kakuno学生钢笔F咀 蓝（配墨胆/笔盒）</chn>
+		<Seqcode>6940793002390</Seqcode>
+	</product>
+	<product>
+		<eng>Kaweco_jinsebijia</eng>
+		<chn>Kaweco金色笔夹</chn>
+		<Seqcode>4250278601287</Seqcode>
+	</product>
+	<product>
+		<eng>KOHINOOR_lanliangse</eng>
+		<chn>KOH-I-NOOR 混色彩铅 亮蓝色</chn>
+		<Seqcode>8593539099451</Seqcode>
+	</product>
+	<product>
+		<eng>KOHINOOR_dahong</eng>
+		<chn>KOH-I-NOOR 混色彩铅 大红</chn>
+		<Seqcode>8593539099512</Seqcode>
+	</product>
+	<product>
+		<eng>KOHINOOR_orange</eng>
+		<chn>KOH-I-NOOR 混色彩铅 橙色</chn>
+		<Seqcode>8593539099390</Seqcode>
+	</product>
+	<product>
+		<eng>KOHINOOR_shenlan</eng>
+		<chn>KOH-I-NOOR 混色彩铅 深蓝</chn>
+		<Seqcode>8593539100782</Seqcode>
+	</product>
+	<product>
+		<eng>KOHINOOR_huoyan</eng>
+		<chn>KOH-I-NOOR 混色彩铅 火焰</chn>
+		<Seqcode>8593539099420</Seqcode>
+	</product>
+	<product>
+		<eng>KOHINOOR_nihong</eng>
+		<chn>KOH-I-NOOR 混色彩铅 霓虹</chn>
+		<Seqcode>8593539099482</Seqcode>
+	</product>
+	<product>
+		<eng>LostInTheSaharaGPZ1001</eng>
+		<chn>Lost In The Sahara-GPZ1001</chn>
+		<Seqcode>4810001017</Seqcode>
+	</product>
+	<product>
+		<eng>MDCottonbijibenwenku_A6</eng>
+		<chn>MDCotton笔记本(文库)&lt;A6&gt;</chn>
+		<Seqcode>4902805151351</Seqcode>
+	</product>
+	<product>
+		<eng>MDCottonbijiben</eng>
+		<chn>MDCotton笔记本&lt;A5&gt;</chn>
+		<Seqcode>4902805151375</Seqcode>
+	</product>
+	<product>
+		<eng>MDCottonbijibenMD_zhong</eng>
+		<chn>MDCotton笔记本&lt;中型&gt;MD</chn>
+		<Seqcode>4902805151368</Seqcode>
+	</product>
+	<product>
+		<eng>MDhezhifengtao_A5</eng>
+		<chn>MD和纸封套&lt;A5&gt;</chn>
+		<Seqcode>4902805498418</Seqcode>
+	</product>
+	<product>
+		<eng>MDhezhifengtaowenku</eng>
+		<chn>MD和纸封套&lt;文库&gt;</chn>
+		<Seqcode>4902805498395</Seqcode>
+	</product>
+	<product>
+		<eng>MDhezhifengtao_xinshu</eng>
+		<chn>MD和纸封套&lt;新书&gt;</chn>
+		<Seqcode>4902805498401</Seqcode>
+	</product>
+	<product>
+		<eng>MDfengtaoPVCwenku_A6</eng>
+		<chn>MD封套PVC（文库）&lt;A6&gt;</chn>
+		<Seqcode>4902805493581</Seqcode>
+	</product>
+	<product>
+		<eng>MDfanggeguojibanB6Slim_xin</eng>
+		<chn>MD方格国际版B6Slim新书</chn>
+		<Seqcode>4902805151894</Seqcode>
+	</product>
+	<product>
+		<eng>MDfanggebijiben_A5</eng>
+		<chn>MD方格笔记本&lt;A5型&gt;</chn>
+		<Seqcode>4902805150033</Seqcode>
+	</product>
+	<product>
+		<eng>MDfanggebijibenwenkuA6</eng>
+		<chn>MD方格笔记本&lt;文库&gt;（A6）</chn>
+		<Seqcode>4902805150019</Seqcode>
+	</product>
+	<product>
+		<eng>MDfanggebijibenguoji_A5</eng>
+		<chn>MD方格笔记本国际版&lt;A5&gt;</chn>
+		<Seqcode>4902805151924</Seqcode>
+	</product>
+	<product>
+		<eng>MDhengjianbijiben_A5</eng>
+		<chn>MD横间笔记本&lt;A5型&gt;</chn>
+		<Seqcode>4902805138048</Seqcode>
+	</product>
+	<product>
+		<eng>MDhengjianbijibenB6Slim_xin</eng>
+		<chn>MD横间笔记本&lt;新书&gt;（B6Slim）</chn>
+		<Seqcode>4902805138024</Seqcode>
+	</product>
+	<product>
+		<eng>MDhengjianbijibenguoji_A5</eng>
+		<chn>MD横间笔记本国际版&lt;A5&gt;</chn>
+		<Seqcode>4902805151917</Seqcode>
+	</product>
+	<product>
+		<eng>MDhengjianbijibenguojiwenku_A6</eng>
+		<chn>MD横间笔记本国际版文库&lt;A6&gt;</chn>
+		<Seqcode>4902805151856</Seqcode>
+	</product>
+	<product>
+		<eng>MDkongbaibijiben_A5</eng>
+		<chn>MD空白笔记本&lt;A5型&gt;</chn>
+		<Seqcode>4902805138031</Seqcode>
+	</product>
+	<product>
+		<eng>MDkongbaibijibenB6Slim_xin</eng>
+		<chn>MD空白笔记本&lt;新书&gt;B6Slim</chn>
+		<Seqcode>4902805138017</Seqcode>
+	</product>
+	<product>
+		<eng>MDbijibenfengtaoPVCA5</eng>
+		<chn>MD笔记本封套PVC&lt;A5型&gt;</chn>
+		<Seqcode>4902805493604</Seqcode>
+	</product>
+	<product>
+		<eng>MidnightBlues_GPZ1002</eng>
+		<chn>Midnight Blues-GPZ1002</chn>
+		<Seqcode>4810001018</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian_recordingmarker</eng>
+		<chn>MIND WAVE便签</chn>
+		<Seqcode>4909001522244</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian_recordingmarker</eng>
+		<chn>MIND WAVE便签</chn>
+		<Seqcode>4909001522244</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian_recordingmarker</eng>
+		<chn>MIND WAVE便签</chn>
+		<Seqcode>4909001522244</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian_recordingmarker</eng>
+		<chn>MIND WAVE便签</chn>
+		<Seqcode>4909001522244</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian_recordingmarker</eng>
+		<chn>MIND WAVE便签</chn>
+		<Seqcode>4909001522244</Seqcode>
+	</product>
+	<product>
+		<eng>yinzhang_huajidexin</eng>
+		<chn>MIND WAVE印章</chn>
+		<Seqcode>4909001935235</Seqcode>
+	</product>
+	<product>
+		<eng>yinzhang_huajidexin</eng>
+		<chn>MIND WAVE印章</chn>
+		<Seqcode>4909001935235</Seqcode>
+	</product>
+	<product>
+		<eng>yinzhang_huajidexin</eng>
+		<chn>MIND WAVE印章</chn>
+		<Seqcode>4909001935235</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>tiezhi_manhuagougou</eng>
+		<chn>MIND WAVE贴纸</chn>
+		<Seqcode>4909001782389</Seqcode>
+	</product>
+	<product>
+		<eng>MM_eraserbrush</eng>
+		<chn>MM系列橡皮/清洁刷单个装</chn>
+		<Seqcode>8411574071211</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA4_blue</eng>
+		<chn>Nahe收纳袋A4蓝色</chn>
+		<Seqcode>4988342155267</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA4_bohelv</eng>
+		<chn>Nahe收纳袋A4薄荷绿</chn>
+		<Seqcode>4988342173438</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA5_gray</eng>
+		<chn>Nahe收纳袋A5灰色</chn>
+		<Seqcode>4988342155168</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA5_red</eng>
+		<chn>Nahe收纳袋A5红色</chn>
+		<Seqcode>4988342155182</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA5_green</eng>
+		<chn>Nahe收纳袋A5绿色</chn>
+		<Seqcode>4988342155212</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA5_blue</eng>
+		<chn>Nahe收纳袋A5蓝色</chn>
+		<Seqcode>4988342155205</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA5_bohelv</eng>
+		<chn>Nahe收纳袋A5薄荷绿</chn>
+		<Seqcode>4988342173414</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA5_yellow</eng>
+		<chn>Nahe收纳袋A5黄色</chn>
+		<Seqcode>4988342155199</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA6_jiuhong</eng>
+		<chn>Nahe收纳袋A6酒红色</chn>
+		<Seqcode>4988342173384</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA7_gray</eng>
+		<chn>Nahe收纳袋A7灰色</chn>
+		<Seqcode>4988342161640</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA7_blue</eng>
+		<chn>Nahe收纳袋A7蓝色</chn>
+		<Seqcode>4988342161688</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaiA7_jiuhongse</eng>
+		<chn>Nahe收纳袋A7酒红色</chn>
+		<Seqcode>4988342173360</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaixichang_blue</eng>
+		<chn>Nahe收纳袋细长款蓝色</chn>
+		<Seqcode>4988342161749</Seqcode>
+	</product>
+	<product>
+		<eng>Nahe_shounadaixichang_yellow</eng>
+		<chn>Nahe收纳袋细长款黄色</chn>
+		<Seqcode>4988342161732</Seqcode>
+	</product>
+	<product>
+		<eng>P500zlmzzb_0.5black</eng>
+		<chn>P500啫喱墨走珠笔 0.5 黑</chn>
+		<Seqcode>4902505182372</Seqcode>
+	</product>
+	<product>
+		<eng>SH_eraserpencilsharpener</eng>
+		<chn>SH系橡皮/单孔卷笔刀单个装</chn>
+		<Seqcode>8411574071204</Seqcode>
+	</product>
+	<product>
+		<eng>Sport_black_bidaidanzhi</eng>
+		<chn>Sport系列用黑色笔袋单支</chn>
+		<Seqcode>4250278607395</Seqcode>
+	</product>
+	<product>
+		<eng>SS_430_eraser</eng>
+		<chn>SS系列430橡皮擦单个装</chn>
+		<Seqcode>8414034610258</Seqcode>
+	</product>
+	<product>
+		<eng>TheforestTrioLPZ306</eng>
+		<chn>The forest Trio-LPZ306</chn>
+		<Seqcode>4810001021</Seqcode>
+	</product>
+	<product>
+		<eng>TnHTZfugukeduchidinggui</eng>
+		<chn>TN黄铜制复古刻度尺定规</chn>
+		<Seqcode>4902805421676</Seqcode>
+	</product>
+	<product>
+		<eng>XSminidingshuji_white</eng>
+		<chn>XS小型订书机白色</chn>
+		<Seqcode>4902805352710</Seqcode>
+	</product>
+	<product>
+		<eng>XSminidingshuji_qing</eng>
+		<chn>XS小型订书机青</chn>
+		<Seqcode>4902805352734</Seqcode>
+	</product>
+	<product>
+		<eng>XSminidingshuji_black</eng>
+		<chn>XS小型订书机黑色</chn>
+		<Seqcode>4902805352703</Seqcode>
+	</product>
+	<product>
+		<eng>XSbaibianxiejiandao_white</eng>
+		<chn>XS百变便携剪刀白色</chn>
+		<Seqcode>4902805494700</Seqcode>
+	</product>
+	<product>
+		<eng>XSbaibianxiejiandao_pink</eng>
+		<chn>XS百变便携剪刀粉红</chn>
+		<Seqcode>4902805494717</Seqcode>
+	</product>
+	<product>
+		<eng>XSbaibianxiejiandao_qing</eng>
+		<chn>XS百变便携剪刀青</chn>
+		<Seqcode>4902805494724</Seqcode>
+	</product>
+	<product>
+		<eng>XSbaibianxiejiandao_black</eng>
+		<chn>XS百变便携剪刀黑色</chn>
+		<Seqcode>4902805494694</Seqcode>
+	</product>
+	<product>
+		<eng>XSminikedao_white</eng>
+		<chn>XS迷你刻刀白色</chn>
+		<Seqcode>4902805352758</Seqcode>
+	</product>
+	<product>
+		<eng>XSminikedao_pink</eng>
+		<chn>XS迷你刻刀粉色</chn>
+		<Seqcode>4902805352765</Seqcode>
+	</product>
+	<product>
+		<eng>XSminikedao_black</eng>
+		<chn>XS迷你刻刀黑色</chn>
+		<Seqcode>4902805352741</Seqcode>
+	</product>
+	<product>
+		<eng>XSminishuangmianjiao_white</eng>
+		<chn>XS迷你双面胶带白色</chn>
+		<Seqcode>4902805352673</Seqcode>
+	</product>
+	<product>
+		<eng>XSminishuangmianjiao_pink</eng>
+		<chn>XS迷你双面胶带粉色</chn>
+		<Seqcode>4902805352680</Seqcode>
+	</product>
+	<product>
+		<eng>XSminishuangmianjiao_black</eng>
+		<chn>XS迷你双面胶带黑色</chn>
+		<Seqcode>4902805352666</Seqcode>
+	</product>
+	<product>
+		<eng>hezhi_whilecat</eng>
+		<chn>ちぎり和紙 白猫</chn>
+		<Seqcode>4720003010</Seqcode>
+	</product>
+	<product>
+		<eng>hezhi_xiangpushou</eng>
+		<chn>ちぎり和紙 相扑手</chn>
+		<Seqcode>4720003013</Seqcode>
+	</product>
+	<product>
+		<eng>hezhi_huamao</eng>
+		<chn>ちぎり和紙 花猫</chn>
+		<Seqcode>4720003009</Seqcode>
+	</product>
+	<product>
+		<eng>hezhi_blackcat</eng>
+		<chn>ちぎり和紙 黑猫</chn>
+		<Seqcode>4720003011</Seqcode>
+	</product>
+	<product>
+		<eng>buxiangzhangdaMPZ1501</eng>
+		<chn>不想长大-MPZ1501</chn>
+		<Seqcode>4810001005</Seqcode>
+	</product>
+	<product>
+		<eng>conglinLPZ305</eng>
+		<chn>丛林-LPZ305</chn>
+		<Seqcode>4810001020</Seqcode>
+	</product>
+	<product>
+		<eng>shuxiejiabanA4_yinsejia</eng>
+		<chn>书写夹板A4(银色夹）</chn>
+		<Seqcode>4988342136655</Seqcode>
+	</product>
+	<product>
+		<eng>shuxiejiabanA5_yinsejia</eng>
+		<chn>书写夹板A5(银色夹）</chn>
+		<Seqcode>4988342136662</Seqcode>
+	</product>
+	<product>
+		<eng>shuxiejiabanchangtiao_glod</eng>
+		<chn>书写夹板长条(金色夹）</chn>
+		<Seqcode>4988342180634</Seqcode>
+	</product>
+	<product>
+		<eng>renlifeixingqidaidaluosi88</eng>
+		<chn>人力飞行器戴达罗斯88号</chn>
+		<Seqcode>4518525000420</Seqcode>
+	</product>
+	<product>
+		<eng>cangfuhudielan_A6</eng>
+		<chn>仓敷の蝴蝶蓝 A6</chn>
+		<Seqcode>4765432300130</Seqcode>
+	</product>
+	<product>
+		<eng>cangfuhudielan_B6</eng>
+		<chn>仓敷の蝴蝶蓝 B6</chn>
+		<Seqcode>4765432300147</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian60meiruwaixingren</eng>
+		<chn>便签60枚入外星人</chn>
+		<Seqcode>4952270198306</Seqcode>
+	</product>
+	<product>
+		<eng>bianqiantie60meirupanda</eng>
+		<chn>便签60枚入熊猫</chn>
+		<Seqcode>4952270198283</Seqcode>
+	</product>
+	<product>
+		<eng>bianqian60meirubaige</eng>
+		<chn>便签60枚入白鸽</chn>
+		<Seqcode>4952270198252</Seqcode>
+	</product>
+	<product>
+		<eng>bianqiantie30meirusanbudecat</eng>
+		<chn>便签贴30枚入散步的猫</chn>
+		<Seqcode>4952270205479</Seqcode>
+	</product>
+	<product>
+		<eng>bianqiantie30meichaiquanyuniao</eng>
+		<chn>便签贴30枚入柴犬与鸟</chn>
+		<Seqcode>4952270205417</Seqcode>
+	</product>
+	<product>
+		<eng>bianqiantie30meirubiyumoshui</eng>
+		<chn>便签贴30枚入笔与墨水</chn>
+		<Seqcode>4952270205431</Seqcode>
+	</product>
+	<product>
+		<eng>ertongcaiselabi12</eng>
+		<chn>儿童彩色蜡笔 12支装</chn>
+		<Seqcode>4977453201024</Seqcode>
+	</product>
+	<product>
+		<eng>ertongfenselabi6</eng>
+		<chn>儿童粉色系彩色蜡笔 6支装</chn>
+		<Seqcode>4977453229806</Seqcode>
+	</product>
+	<product>
+		<eng>baselabi_hailan</eng>
+		<chn>八色蜡笔海蓝</chn>
+		<Seqcode>4988342127936</Seqcode>
+	</product>
+	<product>
+		<eng>neixinbangdaibiaozhunxing</eng>
+		<chn>内芯绑带标准型</chn>
+		<Seqcode>4902805143332</Seqcode>
+	</product>
+	<product>
+		<eng>NXPJBZbijia_black</eng>
+		<chn>内芯配件标准笔夹黑色</chn>
+		<Seqcode>4902805142960</Seqcode>
+	</product>
+	<product>
+		<eng>dongriliangeGPZ1003</eng>
+		<chn>冬日恋歌-GPZ1003</chn>
+		<Seqcode>4810001019</Seqcode>
+	</product>
+	<product>
+		<eng>chongshengshatanjin_A6</eng>
+		<chn>冲绳の沙滩金 A6</chn>
+		<Seqcode>4765432300031</Seqcode>
+	</product>
+	<product>
+		<eng>chongshengshatanjin_B6</eng>
+		<chn>冲绳の沙滩金 B6</chn>
+		<Seqcode>4765432300048</Seqcode>
+	</product>
+	<product>
+		<eng>hanguanqiuyezong_A6</eng>
+		<chn>函馆の秋叶棕 A6</chn>
+		<Seqcode>4765432300055</Seqcode>
+	</product>
+	<product>
+		<eng>hanguanqiuyezong_B6</eng>
+		<chn>函馆の秋叶棕 B6</chn>
+		<Seqcode>4765432300062</Seqcode>
+	</product>
+	<product>
+		<eng>bdmoshuidan6zhi_black</eng>
+		<chn>博弟墨水胆黑色（一次性）6支装</chn>
+		<Seqcode>4902505133930</Seqcode>
+	</product>
+	<product>
+		<eng>kafulizlsbFj_lightblue</eng>
+		<chn>卡佛里亚自来水笔F咀 淡蓝</chn>
+		<Seqcode>4902505214660</Seqcode>
+	</product>
+	<product>
+		<eng>kafulizlsbFj_blue</eng>
+		<chn>卡佛里亚自来水笔F咀 蓝</chn>
+		<Seqcode>4902505176364</Seqcode>
+	</product>
+	<product>
+		<eng>kafulizlsbFj_sliver_gray</eng>
+		<chn>卡佛里亚自来水笔F咀 银/灰</chn>
+		<Seqcode>4902505519475</Seqcode>
+	</product>
+	<product>
+		<eng>kafulizlsbFj_blackgreen</eng>
+		<chn>卡佛里亚自来水笔F咀 黑绿</chn>
+		<Seqcode>4902505176449</Seqcode>
+	</product>
+	<product>
+		<eng>kafulizlsbFj_blackblue</eng>
+		<chn>卡佛里亚自来水笔F咀 黑蓝</chn>
+		<Seqcode>4902505176425</Seqcode>
+	</product>
+	<product>
+		<eng>yinshuashutaozhuang</eng>
+		<chn>印刷术套装</chn>
+		<Seqcode>4410012017</Seqcode>
+	</product>
+	<product>
+		<eng>shounapitao_black_Sport</eng>
+		<chn>双支收纳皮套黑色Sport款</chn>
+		<Seqcode>4250278601096</Seqcode>
+	</product>
+	<product>
+		<eng>zaihuafangliMPZ1512</eng>
+		<chn>在花房里-MPZ1512</chn>
+		<Seqcode>4810001016</Seqcode>
+	</product>
+	<product>
+		<eng>monang_zhaoyangorang6</eng>
+		<chn>墨囊朝阳橙6支装</chn>
+		<Seqcode>4250278611330</Seqcode>
+	</product>
+	<product>
+		<eng>monang_yanhuise6</eng>
+		<chn>墨囊烟灰色6支装</chn>
+		<Seqcode>4250278611323</Seqcode>
+	</product>
+	<product>
+		<eng>monang_huangjia_blue6</eng>
+		<chn>墨囊皇家蓝6支装</chn>
+		<Seqcode>4250278602192</Seqcode>
+	</product>
+	<product>
+		<eng>monang_purple6</eng>
+		<chn>墨囊紫色6支装</chn>
+		<Seqcode>4250278602239</Seqcode>
+	</product>
+	<product>
+		<eng>monang_red6</eng>
+		<chn>墨囊红色6支装</chn>
+		<Seqcode>4250278602222</Seqcode>
+	</product>
+	<product>
+		<eng>monang_green6</eng>
+		<chn>墨囊绿色6支装</chn>
+		<Seqcode>4250278602215</Seqcode>
+	</product>
+	<product>
+		<eng>monang_bluegreen6</eng>
+		<chn>墨囊蓝绿色6支装</chn>
+		<Seqcode>4250278602260</Seqcode>
+	</product>
+	<product>
+		<eng>monang_blueblack6</eng>
+		<chn>墨囊蓝黑色6支装</chn>
+		<Seqcode>4250278602246</Seqcode>
+	</product>
+	<product>
+		<eng>monang_brown6</eng>
+		<chn>墨囊褐色6支装</chn>
+		<Seqcode>4250278602208</Seqcode>
+	</product>
+	<product>
+		<eng>monang_black6</eng>
+		<chn>墨囊黑色6支装</chn>
+		<Seqcode>4250278602253</Seqcode>
+	</product>
+	<product>
+		<eng>duoliangfucat_blue_mini</eng>
+		<chn>多良福猫 蓝 （mini）</chn>
+		<Seqcode>4720003003</Seqcode>
+	</product>
+	<product>
+		<eng>dajiuyesenlintu_A6</eng>
+		<chn>大久野の森林兔 A6</chn>
+		<Seqcode>4765432300093</Seqcode>
+	</product>
+	<product>
+		<eng>dajiuyesenlintu_B6</eng>
+		<chn>大久野の森林兔 B6</chn>
+		<Seqcode>4765432300109</Seqcode>
+	</product>
+	<product>
+		<eng>tianlansezhanshuibitianlansemoshui</eng>
+		<chn>天蓝色蘸水笔天蓝色墨水</chn>
+		<Seqcode>8112345679642</Seqcode>
+	</product>
+	<product>
+		<eng>tianjigangbi_grayF</eng>
+		<chn>天际系列钢笔灰色F</chn>
+		<Seqcode>4250278608729</Seqcode>
+	</product>
+	<product>
+		<eng>tianjigangbi_maqiduoseF</eng>
+		<chn>天际系列钢笔玛奇朵色F</chn>
+		<Seqcode>4250278611699</Seqcode>
+	</product>
+	<product>
+		<eng>tianjigangbi_whiteF</eng>
+		<chn>天际系列钢笔白色F</chn>
+		<Seqcode>4250278610562</Seqcode>
+	</product>
+	<product>
+		<eng>tianjigangbi_pinkF</eng>
+		<chn>天际系列钢笔粉色F</chn>
+		<Seqcode>4250278610616</Seqcode>
+	</product>
+	<product>
+		<eng>tianjigangbi_bohelvF</eng>
+		<chn>天际系列钢笔薄荷绿F</chn>
+		<Seqcode>4250278608675</Seqcode>
+	</product>
+	<product>
+		<eng>tianjigangbi_blackF</eng>
+		<chn>天际系列钢笔黑色F</chn>
+		<Seqcode>4250278608804</Seqcode>
+	</product>
+	<product>
+		<eng>nailiangfenhua_A6</eng>
+		<chn>奈良の粉花 A6</chn>
+		<Seqcode>4765432300116</Seqcode>
+	</product>
+	<product>
+		<eng>nailiangfenhua_B6</eng>
+		<chn>奈良の粉花 B6</chn>
+		<Seqcode>4765432300123</Seqcode>
+	</product>
+	<product>
+		<eng>xuezhegangbi_whiteF</eng>
+		<chn>学者系列钢笔白色F</chn>
+		<Seqcode>4250278603120</Seqcode>
+	</product>
+	<product>
+		<eng>xuezhegangbi_huangjialanF</eng>
+		<chn>学者系列钢笔皇家蓝F</chn>
+		<Seqcode>4250278603151</Seqcode>
+	</product>
+	<product>
+		<eng>xunzhaoMPZ1505</eng>
+		<chn>寻找-MPZ1505</chn>
+		<Seqcode>4810001009</Seqcode>
+	</product>
+	<product>
+		<eng>xiaochenghuanxiangqu_LPZ301</eng>
+		<chn>小城幻想曲-LPZ301</chn>
+		<Seqcode>4810001001</Seqcode>
+	</product>
+	<product>
+		<eng>xiaochengliMPZ1508</eng>
+		<chn>小城里-MPZ1508</chn>
+		<Seqcode>4810001012</Seqcode>
+	</product>
+	<product>
+		<eng>xiaozunjiuhong_A6</eng>
+		<chn>小樽の酒红 A6</chn>
+		<Seqcode>4765432300017</Seqcode>
+	</product>
+	<product>
+		<eng>xiaozunjiuhong_B6</eng>
+		<chn>小樽の酒红 B6</chn>
+		<Seqcode>4765432300024</Seqcode>
+	</product>
+	<product>
+		<eng>xiaoxiongdushuMPZ1509</eng>
+		<chn>小熊读书-MPZ1509</chn>
+		<Seqcode>4810001013</Seqcode>
+	</product>
+	<product>
+		<eng>wuhouMPZ1503</eng>
+		<chn>屋后-MPZ1503</chn>
+		<Seqcode>4810001007</Seqcode>
+	</product>
+	<product>
+		<eng>lanshanfengyehuang_A6</eng>
+		<chn>岚山の枫叶黄 A6</chn>
+		<Seqcode>4765432300079</Seqcode>
+	</product>
+	<product>
+		<eng>lanshanfengyehuang_B6</eng>
+		<chn>岚山の枫叶黄 B6</chn>
+		<Seqcode>4765432300086</Seqcode>
+	</product>
+	<product>
+		<eng>huanxiangxingkongMPZ1507</eng>
+		<chn>幻想星空-MPZ1507</chn>
+		<Seqcode>4810001011</Seqcode>
+	</product>
+	<product>
+		<eng>cxzdqb_orange</eng>
+		<chn>彩芯自动铅笔 橙</chn>
+		<Seqcode>4902505208157</Seqcode>
+	</product>
+	<product>
+		<eng>cxzdqb_lightblue</eng>
+		<chn>彩芯自动铅笔 浅蓝</chn>
+		<Seqcode>4902505208126</Seqcode>
+	</product>
+	<product>
+		<eng>cxzdqb_pink</eng>
+		<chn>彩芯自动铅笔 粉</chn>
+		<Seqcode>4902505208164</Seqcode>
+	</product>
+	<product>
+		<eng>cxzdqb_purple</eng>
+		<chn>彩芯自动铅笔 紫</chn>
+		<Seqcode>4902505208188</Seqcode>
+	</product>
+	<product>
+		<eng>cxzdqb_red</eng>
+		<chn>彩芯自动铅笔 红</chn>
+		<Seqcode>4902505208171</Seqcode>
+	</product>
+	<product>
+		<eng>cxzdqb_green</eng>
+		<chn>彩芯自动铅笔 绿</chn>
+		<Seqcode>4902505208133</Seqcode>
+	</product>
+	<product>
+		<eng>chaojingzhiL</eng>
+		<chn>抄经纸(L)</chn>
+		<Seqcode>4991604071328</Seqcode>
+	</product>
+	<product>
+		<eng>chaojingzhiM</eng>
+		<chn>抄经纸(M)</chn>
+		<Seqcode>4991604071298</Seqcode>
+	</product>
+	<product>
+		<eng>tuilashishangmoqi_sportpen</eng>
+		<chn>推拉式上墨器（Sport钢笔）</chn>
+		<Seqcode>4250278611309</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5orange</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5  橙</chn>
+		<Seqcode>4902505415821</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5_qinlan</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5  浅蓝</chn>
+		<Seqcode>4902505415845</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5pink</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5  粉</chn>
+		<Seqcode>4902505415838</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5purple</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5  紫</chn>
+		<Seqcode>4902505415852</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5green</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5  绿</chn>
+		<Seqcode>4902505415807</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5red</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5 红</chn>
+		<Seqcode>4902505408052</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_azzlb0.5_blue</eng>
+		<chn>摩磨擦®-按制啫喱笔0.5 蓝</chn>
+		<Seqcode>4902505408069</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.3brown</eng>
+		<chn>摩磨擦®-纤细笔0.38 棕</chn>
+		<Seqcode>4902505485312</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38orange</eng>
+		<chn>摩磨擦®-纤细笔0.38 橙</chn>
+		<Seqcode>4902505446948</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_qianlv</eng>
+		<chn>摩磨擦®-纤细笔0.38 浅绿</chn>
+		<Seqcode>4902505446924</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38lightblue</eng>
+		<chn>摩磨擦®-纤细笔0.38 浅蓝</chn>
+		<Seqcode>4902505446962</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38pink</eng>
+		<chn>摩磨擦®-纤细笔0.38 粉</chn>
+		<Seqcode>4902505446955</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_purple</eng>
+		<chn>摩磨擦®-纤细笔0.38 紫</chn>
+		<Seqcode>4902505485305</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_red</eng>
+		<chn>摩磨擦®-纤细笔0.38 红</chn>
+		<Seqcode>4902505446894</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_green</eng>
+		<chn>摩磨擦®-纤细笔0.38 绿</chn>
+		<Seqcode>4902505446917</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_bule</eng>
+		<chn>摩磨擦®-纤细笔0.38 蓝</chn>
+		<Seqcode>4902505446900</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_mihuang</eng>
+		<chn>摩磨擦®-纤细笔0.38 蜜黄</chn>
+		<Seqcode>4902505485251</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38black</eng>
+		<chn>摩磨擦®-纤细笔0.38 黑</chn>
+		<Seqcode>4902505446887</Seqcode>
+	</product>
+	<product>
+		<eng>mmc_qxb0.38_blackblue</eng>
+		<chn>摩磨擦®-纤细笔0.38 黑蓝</chn>
+		<Seqcode>4902505485220</Seqcode>
+	</product>
+	<product>
+		<eng>zhuangsegangbi_whiteblueF</eng>
+		<chn>撞色系列钢笔白拼蓝色F</chn>
+		<Seqcode>4250278613174</Seqcode>
+	</product>
+	<product>
+		<eng>zhuangsegangbi_blackpinkF</eng>
+		<chn>撞色系列钢笔黑拼粉色F</chn>
+		<Seqcode>4250278613211</Seqcode>
+	</product>
+	<product>
+		<eng>fanggeneixinhuzhao002_xin</eng>
+		<chn>方格内芯（新）护照型002</chn>
+		<Seqcode>4902805143691</Seqcode>
+	</product>
+	<product>
+		<eng>fanggebenneixinbiaozhunxing</eng>
+		<chn>方格本内芯标准型</chn>
+		<Seqcode>4902805142465</Seqcode>
+	</product>
+	<product>
+		<eng>rijineixinbiaozhunxing</eng>
+		<chn>日记内芯标准型</chn>
+		<Seqcode>4902805142557</Seqcode>
+	</product>
+	<product>
+		<eng>xingkongMPZ1504</eng>
+		<chn>星空-MPZ1504</chn>
+		<Seqcode>4810001008</Seqcode>
+	</product>
+	<product>
+		<eng>yuelixingneixinhuzhaoxing006</eng>
+		<chn>月历型内芯护照型006</chn>
+		<Seqcode>4902805143264</Seqcode>
+	</product>
+	<product>
+		<eng>yuelibenneixinbiaozhunxing</eng>
+		<chn>月历本内芯标准型</chn>
+		<Seqcode>4902805143172</Seqcode>
+	</product>
+	<product>
+		<eng>robot_captaindrillrepeat</eng>
+		<chn>机器人CaptainDrillRepeat</chn>
+		<Seqcode>4547534000411</Seqcode>
+	</product>
+	<product>
+		<eng>robot_drpenkgoriborg</eng>
+		<chn>机器人Dr.PenkGoriborg</chn>
+		<Seqcode>4547534000268</Seqcode>
+	</product>
+	<product>
+		<eng>robot_hanasuzu</eng>
+		<chn>机器人Hana/Suzu</chn>
+		<Seqcode>4547534000756</Seqcode>
+	</product>
+	<product>
+		<eng>robot_liftpinch</eng>
+		<chn>机器人Lift/Pinch</chn>
+		<Seqcode>4547534000497</Seqcode>
+	</product>
+	<product>
+		<eng>robot_octodeca</eng>
+		<chn>机器人Octo/Deca</chn>
+		<Seqcode>4547534000602</Seqcode>
+	</product>
+	<product>
+		<eng>robot_tenorsilky</eng>
+		<chn>机器人Tenor/Silky</chn>
+		<Seqcode>4547534000527</Seqcode>
+	</product>
+	<product>
+		<eng>hengjianneixinhuzhao001_xin</eng>
+		<chn>横间内芯（新）护照型001</chn>
+		<Seqcode>4902805143684</Seqcode>
+	</product>
+	<product>
+		<eng>hengjianbenneixinbiaozhunxing</eng>
+		<chn>横间本内芯标准型</chn>
+		<Seqcode>4902805142458</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_junlanse</eng>
+		<chn>活动铅笔0.5mm军蓝色</chn>
+		<Seqcode>4988342163736</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_orange</eng>
+		<chn>活动铅笔0.5mm橙色</chn>
+		<Seqcode>4988342163705</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_white</eng>
+		<chn>活动铅笔0.5mm白色</chn>
+		<Seqcode>4988342163651</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_pink</eng>
+		<chn>活动铅笔0.5mm粉色</chn>
+		<Seqcode>4988342163675</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_purple</eng>
+		<chn>活动铅笔0.5mm紫色</chn>
+		<Seqcode>4988342163750</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_red</eng>
+		<chn>活动铅笔0.5mm红色</chn>
+		<Seqcode>4988342163682</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_green</eng>
+		<chn>活动铅笔0.5mm绿色</chn>
+		<Seqcode>4988342163743</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_blue</eng>
+		<chn>活动铅笔0.5mm蓝色</chn>
+		<Seqcode>4988342163729</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_bohelv</eng>
+		<chn>活动铅笔0.5mm薄荷绿</chn>
+		<Seqcode>4988342163712</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_brown</eng>
+		<chn>活动铅笔0.5mm褐色</chn>
+		<Seqcode>4988342163668</Seqcode>
+	</product>
+	<product>
+		<eng>HDQB0.5_yellow</eng>
+		<chn>活动铅笔0.5mm黄色</chn>
+		<Seqcode>4988342163699</Seqcode>
+	</product>
+	<product>
+		<eng>liuyoulatai</eng>
+		<chn>流釉蜡台</chn>
+		<Seqcode>4410010029</Seqcode>
+	</product>
+	<product>
+		<eng>haidiqiyujiLPZ303</eng>
+		<chn>海底奇遇记-LPZ303</chn>
+		<Seqcode>4810001003</Seqcode>
+	</product>
+	<product>
+		<eng>hunselabi_hua</eng>
+		<chn>混色蜡笔 花朵</chn>
+		<Seqcode>4571397652739</Seqcode>
+	</product>
+	<product>
+		<eng>huoqiyinyidilashao</eng>
+		<chn>火漆印-滴蜡勺</chn>
+		<Seqcode>4010020017</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_withU16nian</eng>
+		<chn>火漆印章-with U（16年款）</chn>
+		<Seqcode>4410009074</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_shuangzizuo</eng>
+		<chn>火漆印章-双子座（16年款）</chn>
+		<Seqcode>4410009042</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_shuangyu16nian</eng>
+		<chn>火漆印章-双鱼座（16年款）</chn>
+		<Seqcode>4410009041</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_yuan_flying</eng>
+		<chn>火漆印章-圆款-flying</chn>
+		<Seqcode>4410009031</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_yuan_missU</eng>
+		<chn>火漆印章-圆款-Miss U</chn>
+		<Seqcode>4410009027</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_hndmhsg</eng>
+		<chn>火漆印章-圆款-和你的美好时光</chn>
+		<Seqcode>4410009026</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_pudie</eng>
+		<chn>火漆印章-圆款-扑蝶</chn>
+		<Seqcode>4410009025</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_yuan_chuangruwoxin</eng>
+		<chn>火漆印章-圆款-闯入我心</chn>
+		<Seqcode>4410009032</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_chunvzuo</eng>
+		<chn>火漆印章-处女座（16年款）</chn>
+		<Seqcode>4410009035</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_tiancheng16nian</eng>
+		<chn>火漆印章-天秤座（16年款）</chn>
+		<Seqcode>4410009044</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_sheshou16nian</eng>
+		<chn>火漆印章-射手座（16年款）</chn>
+		<Seqcode>4410009039</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_juxiezuo</eng>
+		<chn>火漆印章-巨蟹座（16年款）</chn>
+		<Seqcode>4410009037</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_mojie16nian</eng>
+		<chn>火漆印章-摩羯座（16年款）</chn>
+		<Seqcode>4410009038</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_shuiping16nian</eng>
+		<chn>火漆印章-水瓶座（16年款）</chn>
+		<Seqcode>4410009043</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_baiyang16nian</eng>
+		<chn>火漆印章-白羊座（16年款）</chn>
+		<Seqcode>4410009034</Seqcode>
+	</product>
+	<product>
+		<eng>hqyz_jinniuzuo</eng>
+		<chn>火漆印章-金牛座（16年款）</chn>
+		<Seqcode>4410009036</Seqcode>
+	</product>
+	<product>
+		<eng>huoqiyinjinianbang</eng>
+		<chn>火漆印纪念版</chn>
+		<Seqcode>2010001013</Seqcode>
+	</product>
+	<product>
+		<eng>huoqila</eng>
+		<chn>火漆蜡</chn>
+		<Seqcode>4410010026</Seqcode>
+	</product>
+	<product>
+		<eng>niupizhibenneixinhuzhaoxing009</eng>
+		<chn>牛皮纸本内芯护照型009</chn>
+		<Seqcode>4902805143738</Seqcode>
+	</product>
+	<product>
+		<eng>maorihe_dagedun</eng>
+		<chn>猫日和 打个盹</chn>
+		<Seqcode>4720003006</Seqcode>
+	</product>
+	<product>
+		<eng>maorihe_qiutoushi</eng>
+		<chn>猫日和 求投食</chn>
+		<Seqcode>4720003005</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_rubai</eng>
+		<chn>珮尔娜自来水笔F咀 乳白</chn>
+		<Seqcode>4902505348372</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_lanbaoshi</eng>
+		<chn>珮尔娜自来水笔F咀 宝石蓝</chn>
+		<Seqcode>4902505348310</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_brown</eng>
+		<chn>珮尔娜自来水笔F咀 棕</chn>
+		<Seqcode>4902505381188</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_lightgreen</eng>
+		<chn>珮尔娜自来水笔F咀 浅绿</chn>
+		<Seqcode>4902505348334</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_lightblue</eng>
+		<chn>珮尔娜自来水笔F咀 浅蓝</chn>
+		<Seqcode>4902505348396</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_gray</eng>
+		<chn>珮尔娜自来水笔F咀 灰</chn>
+		<Seqcode>4902505348358</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_white</eng>
+		<chn>珮尔娜自来水笔F咀 白</chn>
+		<Seqcode>4902505381140</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_pink</eng>
+		<chn>珮尔娜自来水笔F咀 粉</chn>
+		<Seqcode>4902505348297</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_toumingcheng</eng>
+		<chn>珮尔娜自来水笔F咀 透明橙</chn>
+		<Seqcode>4902505416279</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_toumingqianlv</eng>
+		<chn>珮尔娜自来水笔F咀 透明浅绿</chn>
+		<Seqcode>4902505416293</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_toumingqianlan</eng>
+		<chn>珮尔娜自来水笔F咀 透明浅蓝</chn>
+		<Seqcode>4902505416316</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_toumingfen</eng>
+		<chn>珮尔娜自来水笔F咀 透明粉</chn>
+		<Seqcode>4902505416255</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_toumingred</eng>
+		<chn>珮尔娜自来水笔F咀 透明红</chn>
+		<Seqcode>4902505416231</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_touminglan</eng>
+		<chn>珮尔娜自来水笔F咀 透明蓝</chn>
+		<Seqcode>4902505416330</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_touminghei</eng>
+		<chn>珮尔娜自来水笔F咀 透明黑</chn>
+		<Seqcode>4902505416217</Seqcode>
+	</product>
+	<product>
+		<eng>Prera_zlsbFj_yellow</eng>
+		<chn>珮尔娜自来水笔F咀 黄</chn>
+		<Seqcode>4902505381164</Seqcode>
+	</product>
+	<product>
+		<eng>lyz30meiruxiangpuxuanshouA</eng>
+		<chn>留言纸30枚入相扑选手A</chn>
+		<Seqcode>4952270198115</Seqcode>
+	</product>
+	<product>
+		<eng>fengkuangdamaoxianLPZ302</eng>
+		<chn>疯狂大冒险-LPZ302</chn>
+		<Seqcode>4810001002</Seqcode>
+	</product>
+	<product>
+		<eng>pizhibijibenchasebiaozhun</eng>
+		<chn>皮质笔记本茶色标准型</chn>
+		<Seqcode>4902805137157</Seqcode>
+	</product>
+	<product>
+		<eng>pizhibijibentuosehuzhaoxing</eng>
+		<chn>皮质笔记本驼色护照型</chn>
+		<Seqcode>4902805151948</Seqcode>
+	</product>
+	<product>
+		<eng>kongbaibenneixinbiaozhunxing</eng>
+		<chn>空白本内芯标准型</chn>
+		<Seqcode>4902805142472</Seqcode>
+	</product>
+	<product>
+		<eng>kongbaibijibenguojiB6Slim</eng>
+		<chn>空白笔记本国际版&lt;B6Slim&gt;</chn>
+		<Seqcode>4902805151870</Seqcode>
+	</product>
+	<product>
+		<eng>kongbaibijibenguojiwenkuA6</eng>
+		<chn>空白笔记本国际版文库&lt;A6&gt;</chn>
+		<Seqcode>4902805151849</Seqcode>
+	</product>
+	<product>
+		<eng>denghouniaofeihuilaiMPZ1502</eng>
+		<chn>等候鸟飞回来-MPZ1502</chn>
+		<Seqcode>4810001006</Seqcode>
+	</product>
+	<product>
+		<eng>pinkbolizhanshuibipinkmoshui</eng>
+		<chn>粉色玻璃蘸水笔粉色墨水</chn>
+		<Seqcode>8112345679628</Seqcode>
+	</product>
+	<product>
+		<eng>jingyinggangbiFj_black</eng>
+		<chn>精英钢笔F咀 黑</chn>
+		<Seqcode>4902505490651</Seqcode>
+	</product>
+	<product>
+		<eng>zhigudongwumoxing_huangsehubanmao</eng>
+		<chn>纸管动物模型 黄色虎斑猫</chn>
+		<Seqcode>4547534000886</Seqcode>
+	</product>
+	<product>
+		<eng>zhiguandouniuquanmoxing</eng>
+		<chn>纸管斗牛犬模型</chn>
+		<Seqcode>4547534000787</Seqcode>
+	</product>
+	<product>
+		<eng>zhiguanuangmoxing</eng>
+		<chn>纸管机独角仙模型</chn>
+		<Seqcode>4547534000732</Seqcode>
+	</product>
+	<product>
+		<eng>zhiguanlujiaochongmoxing</eng>
+		<chn>纸管鹿角虫模型</chn>
+		<Seqcode>4547534000749</Seqcode>
+	</product>
+	<product>
+		<eng>xianquanbenA5slim_kongbailuotuo</eng>
+		<chn>线圈本A5slim空白骆驼款</chn>
+		<Seqcode>4902805150316</Seqcode>
+	</product>
+	<product>
+		<eng>xianquanbenA6slimkoudai_daishu</eng>
+		<chn>线圈本A6slim口袋袋鼠款</chn>
+		<Seqcode>4902805150309</Seqcode>
+	</product>
+	<product>
+		<eng>xianquanbenA6lim_kongbailotuo</eng>
+		<chn>线圈本A6slim空白骆驼款</chn>
+		<Seqcode>4902805150286</Seqcode>
+	</product>
+	<product>
+		<eng>xqbjbB6shamoluotuo</eng>
+		<chn>线圈笔记本B6沙漠骆驼款</chn>
+		<Seqcode>4902805150378</Seqcode>
+	</product>
+	<product>
+		<eng>xqbjbB6baibeiguobaixiong</eng>
+		<chn>线圈笔记本B6白北国白熊款</chn>
+		<Seqcode>4902805150385</Seqcode>
+	</product>
+	<product>
+		<eng>xqbjbB6touchuangmifeng</eng>
+		<chn>线圈笔记本B6透窗蜜蜂款</chn>
+		<Seqcode>4902805150866</Seqcode>
+	</product>
+	<product>
+		<eng>jdzhoujibenneixinbiaozhun019</eng>
+		<chn>经典周记本内芯标准型019</chn>
+		<Seqcode>4902805143318</Seqcode>
+	</product>
+	<product>
+		<eng>jingdiangangbifugulanF</eng>
+		<chn>经典系列钢笔复古蓝F</chn>
+		<Seqcode>4250278613822</Seqcode>
+	</product>
+	<product>
+		<eng>jingdiangangbigongyelvF</eng>
+		<chn>经典系列钢笔工业绿F</chn>
+		<Seqcode>4250278613839</Seqcode>
+	</product>
+	<product>
+		<eng>jingdiangangbiwhiteF</eng>
+		<chn>经典系列钢笔白色F</chn>
+		<Seqcode>4250278600082</Seqcode>
+	</product>
+	<product>
+		<eng>jingdiangangbihuangtongF</eng>
+		<chn>经典系列钢笔透明F</chn>
+		<Seqcode>4250278600051</Seqcode>
+	</product>
+	<product>
+		<eng>huitubenneixinhuzhaoxing</eng>
+		<chn>绘图本内芯护照型</chn>
+		<Seqcode>4902805143721</Seqcode>
+	</product>
+	<product>
+		<eng>huitubenneixinbiaozhunxing</eng>
+		<chn>绘图本内芯标准型</chn>
+		<Seqcode>4902805142861</Seqcode>
+	</product>
+	<product>
+		<eng>huituqianbihuangtong5.6chang</eng>
+		<chn>绘图铅笔黄铜5.6mm长款</chn>
+		<Seqcode>4250278608354</Seqcode>
+	</product>
+	<product>
+		<eng>Hbhuituqianbi117100_12zhi</eng>
+		<chn>美术用9000/HB绘图铅笔-117100 12支/盒</chn>
+		<Seqcode>4005401990093</Seqcode>
+	</product>
+	<product>
+		<eng>yumaozhanshuibidanzhi3056</eng>
+		<chn>羽毛蘸水笔单支3056</chn>
+		<Seqcode>8112345679383</Seqcode>
+	</product>
+	<product>
+		<eng>ztszxzhoujibenneixinbiaozhun</eng>
+		<chn>自填式直写周记本内芯标准型</chn>
+		<Seqcode>4902805143790</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_dongjiangjun</eng>
+		<chn>色彩雫15cc 冬将軍</chn>
+		<Seqcode>4902505492679</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_dongshi</eng>
+		<chn>色彩雫15cc 冬柿</chn>
+		<Seqcode>4902505492662</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_tubi</eng>
+		<chn>色彩雫15cc 土筆</chn>
+		<Seqcode>4902505492792</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_wanxia</eng>
+		<chn>色彩雫15cc 夕焼け</chn>
+		<Seqcode>4902505492853</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_tianse</eng>
+		<chn>色彩雫15cc 天色</chn>
+		<Seqcode>4902505492631</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_kongqve</eng>
+		<chn>色彩雫15cc 孔雀</chn>
+		<Seqcode>4902505492693</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_shanli</eng>
+		<chn>色彩雫15cc 山栗</chn>
+		<Seqcode>4902505492846</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_shanputao</eng>
+		<chn>色彩雫15cc 山葡萄</chn>
+		<Seqcode>4902505492839</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_yueye</eng>
+		<chn>色彩雫15cc 月夜</chn>
+		<Seqcode>4902505492822</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_zhaoyan</eng>
+		<chn>色彩雫15cc 朝顔</chn>
+		<Seqcode>4902505492648</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_songlu</eng>
+		<chn>色彩雫15cc 松露</chn>
+		<Seqcode>4902505492778</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_shenhai</eng>
+		<chn>色彩雫15cc 深海</chn>
+		<Seqcode>4902505492761</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_shenlv</eng>
+		<chn>色彩雫15cc 深緑</chn>
+		<Seqcode>4902505492754</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_qiuying</eng>
+		<chn>色彩雫15cc 秋桜</chn>
+		<Seqcode>4902505492709</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_daosui</eng>
+		<chn>色彩雫15cc 稲穂</chn>
+		<Seqcode>4902505492686</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_zhulin</eng>
+		<chn>色彩雫15cc 竹林</chn>
+		<Seqcode>4902505492655</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_zhutan</eng>
+		<chn>色彩雫15cc 竹炭</chn>
+		<Seqcode>4902505492785</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_hongye</eng>
+		<chn>色彩雫15cc 紅葉</chn>
+		<Seqcode>4902505492730</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_zishibu</eng>
+		<chn>色彩雫15cc 紫式部</chn>
+		<Seqcode>4902505492747</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_ziyanghua</eng>
+		<chn>色彩雫15cc 紫阳花</chn>
+		<Seqcode>4902505492624</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_ganbi</eng>
+		<chn>色彩雫15cc 绀碧</chn>
+		<Seqcode>4902505492716</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_zhizhu</eng>
+		<chn>色彩雫15cc 躑躅</chn>
+		<Seqcode>4902505492815</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_wuyu</eng>
+		<chn>色彩雫15cc 雾雨</chn>
+		<Seqcode>4902505492723</Seqcode>
+	</product>
+	<product>
+		<eng>scn15cc_lucao</eng>
+		<chn>色彩雫15cc 露草</chn>
+		<Seqcode>4902505492808</Seqcode>
+	</product>
+	<product>
+		<eng>huafangdemaoMPZ1506</eng>
+		<chn>花房的猫-MPZ1506</chn>
+		<Seqcode>4810001010</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_lisacaifeng</eng>
+		<chn>若态DIY小屋-丽萨裁缝店</chn>
+		<Seqcode>6946785107258</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_kxhuafang</eng>
+		<chn>若态DIY小屋-凯西花房</chn>
+		<Seqcode>6946785108668</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_ksyinyueketing</eng>
+		<chn>若态DIY小屋-卡斯的音乐客厅</chn>
+		<Seqcode>6946785164664</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_smshufang</eng>
+		<chn>若态DIY小屋-山姆书店</chn>
+		<Seqcode>6946785108644</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_jsmeiweichufang</eng>
+		<chn>若态DIY小屋-杰森的美味厨房</chn>
+		<Seqcode>6946785164145</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_alstianmeiwoshi</eng>
+		<chn>若态DIY小屋-爱丽丝的甜美卧室</chn>
+		<Seqcode>6946785164251</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_mlsunshinegarden</eng>
+		<chn>若态DIY小屋-米勒的阳光花园</chn>
+		<Seqcode>6946785164749</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_adstudio</eng>
+		<chn>若态DIY小屋-艾达画室</chn>
+		<Seqcode>6946785108651</Seqcode>
+	</product>
+	<product>
+		<eng>rtDIYxw_xmkafeidian</eng>
+		<chn>若态DIY小屋-西蒙的时光咖啡店</chn>
+		<Seqcode>6946785164633</Seqcode>
+	</product>
+	<product>
+		<eng>leyteminihuangtong</eng>
+		<chn>莱特迷你号（黄铜）</chn>
+		<Seqcode>4518525000178</Seqcode>
+	</product>
+	<product>
+		<eng>bluebolizhanshuibibluemoshui</eng>
+		<chn>蓝色玻璃蘸水笔蓝色墨水</chn>
+		<Seqcode>8112345679581</Seqcode>
+	</product>
+	<product>
+		<eng>zhanshuibitaozhuan422</eng>
+		<chn>蘸水笔套装422</chn>
+		<Seqcode>8051773940859</Seqcode>
+	</product>
+	<product>
+		<eng>zhanshuibitaozhuan550</eng>
+		<chn>蘸水笔套装550</chn>
+		<Seqcode>8051773940361</Seqcode>
+	</product>
+	<product>
+		<eng>zhanshuibitaozhuan7455</eng>
+		<chn>蘸水笔套装7455</chn>
+		<Seqcode>8051773940477</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_dongjiangjun</eng>
+		<chn>补充型墨水 冬将軍</chn>
+		<Seqcode>4902505374777</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_dongshi</eng>
+		<chn>补充型墨水 冬柿</chn>
+		<Seqcode>4902505390548</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_tubi</eng>
+		<chn>补充型墨水 土筆</chn>
+		<Seqcode>4902505390555</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_wanxia</eng>
+		<chn>补充型墨水 夕焼け</chn>
+		<Seqcode>4902505380570</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_tianse</eng>
+		<chn>补充型墨水 天色</chn>
+		<Seqcode>4902505453625</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_kongque</eng>
+		<chn>补充型墨水 孔雀</chn>
+		<Seqcode>4902505374746</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_shanli</eng>
+		<chn>补充型墨水 山栗</chn>
+		<Seqcode>4902505390562</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_shanputao</eng>
+		<chn>补充型墨水 山葡萄</chn>
+		<Seqcode>4902505380563</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_yueye</eng>
+		<chn>补充型墨水 月夜</chn>
+		<Seqcode>4902505367298</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_zhaoyan</eng>
+		<chn>补充型墨水 朝顔</chn>
+		<Seqcode>4902505367250</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_songlu</eng>
+		<chn>补充型墨水 松露</chn>
+		<Seqcode>4902505374753</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_shenhai</eng>
+		<chn>补充型墨水 深海</chn>
+		<Seqcode>4902505453618</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_shenlv</eng>
+		<chn>补充型墨水 深緑</chn>
+		<Seqcode>4902505374760</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_qiuying</eng>
+		<chn>补充型墨水 秋桜</chn>
+		<Seqcode>4902505433313</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_zhulin</eng>
+		<chn>补充型墨水 竹林</chn>
+		<Seqcode>4902505433337</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_zhutan</eng>
+		<chn>补充型墨水 竹炭</chn>
+		<Seqcode>4902505453601</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_hongye</eng>
+		<chn>补充型墨水 紅葉</chn>
+		<Seqcode>4902505380556</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_zibushi</eng>
+		<chn>补充型墨水 紫式部</chn>
+		<Seqcode>4902505433320</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_ziyanghua</eng>
+		<chn>补充型墨水 紫阳花</chn>
+		<Seqcode>4902505367267</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_ganbi</eng>
+		<chn>补充型墨水 绀碧</chn>
+		<Seqcode>4902505367281</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_zhizhu</eng>
+		<chn>补充型墨水 躑躅</chn>
+		<Seqcode>4902505380549</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_wuyu</eng>
+		<chn>补充型墨水 雾雨</chn>
+		<Seqcode>4902505374784</Seqcode>
+	</product>
+	<product>
+		<eng>bcxms_lucao</eng>
+		<chn>补充型墨水 露草</chn>
+		<Seqcode>4902505367274</Seqcode>
+	</product>
+	<product>
+		<eng>xixilijiucheng_LPZ304</eng>
+		<chn>西西里酒城-LPZ304</chn>
+		<Seqcode>4810001004</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_zszaocan</eng>
+		<chn>趣味橡皮-中式早餐</chn>
+		<Seqcode>4991685200563</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_cuju</eng>
+		<chn>趣味橡皮-厨具</chn>
+		<Seqcode>4991685981028</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_heyezi</eng>
+		<chn>趣味橡皮-和叶子</chn>
+		<Seqcode>4991685200266</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_wmshousi</eng>
+		<chn>趣味橡皮-外卖寿司</chn>
+		<Seqcode>4991685140081</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_jtcanguan</eng>
+		<chn>趣味橡皮-家庭餐馆</chn>
+		<Seqcode>4991685130136</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_shoushi</eng>
+		<chn>趣味橡皮-寿司</chn>
+		<Seqcode>4991685961082</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_shoushihe</eng>
+		<chn>趣味橡皮-寿司（盒装）</chn>
+		<Seqcode>4991685140098</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_shoushishiguan</eng>
+		<chn>趣味橡皮-寿司十貫</chn>
+		<Seqcode>4991685150134</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_kuaican</eng>
+		<chn>趣味橡皮-快餐</chn>
+		<Seqcode>4991685961099</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_konglong</eng>
+		<chn>趣味橡皮-恐龙</chn>
+		<Seqcode>4991685150127</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_zcmyuribenwawa</eng>
+		<chn>趣味橡皮-招财猫与日本娃娃</chn>
+		<Seqcode>4991685201133</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_kcworld</eng>
+		<chn>趣味橡皮-昆虫世界</chn>
+		<Seqcode>4991685120267</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_xpbinggan</eng>
+		<chn>趣味橡皮-橡皮饼干</chn>
+		<Seqcode>4991685170057</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_shuizuguan</eng>
+		<chn>趣味橡皮-水族馆</chn>
+		<Seqcode>4991685130075</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_haiyangdongwu</eng>
+		<chn>趣味橡皮-海洋动物</chn>
+		<Seqcode>4991685200327</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_xiaofang</eng>
+		<chn>趣味橡皮-消防</chn>
+		<Seqcode>4991685200495</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_maotouying</eng>
+		<chn>趣味橡皮-猫头鹰</chn>
+		<Seqcode>4991685170026</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_wanju</eng>
+		<chn>趣味橡皮-玩具</chn>
+		<Seqcode>4991685170064</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_tpwu</eng>
+		<chn>趣味橡皮-甜品屋</chn>
+		<Seqcode>4991685130105</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_shucai</eng>
+		<chn>趣味橡皮-蔬菜</chn>
+		<Seqcode>4991685201232</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_sclanzi</eng>
+		<chn>趣味橡皮-蔬菜篮子</chn>
+		<Seqcode>4991685160072</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_car</eng>
+		<chn>趣味橡皮-车</chn>
+		<Seqcode>4991685201201</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_yundong</eng>
+		<chn>趣味橡皮-运动</chn>
+		<Seqcode>4991685120229</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_yecan</eng>
+		<chn>趣味橡皮-野餐</chn>
+		<Seqcode>4991685120205</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_snacks</eng>
+		<chn>趣味橡皮-零食</chn>
+		<Seqcode>4991685200457</Seqcode>
+	</product>
+	<product>
+		<eng>qwxp_bgtianping</eng>
+		<chn>趣味橡皮-饼干甜品</chn>
+		<Seqcode>4991685200891</Seqcode>
+	</product>
+	<product>
+		<eng>zaozhishu_xinban</eng>
+		<chn>造纸术-新版套装</chn>
+		<Seqcode>4410012016</Seqcode>
+	</product>
+	<product>
+		<eng>youtongyumaoMPZ1511</eng>
+		<chn>邮筒与猫-MPZ1511</chn>
+		<Seqcode>4810001015</Seqcode>
+	</product>
+	<product>
+		<eng>yehaiziMPZ1510</eng>
+		<chn>野孩子-MPZ1510</chn>
+		<Seqcode>4810001014</Seqcode>
+	</product>
+	<product>
+		<eng>gangbimoshui_black</eng>
+		<chn>钢笔墨水黑</chn>
+		<Seqcode>4902505140488</Seqcode>
+	</product>
+	<product>
+		<eng>lvzhigangbi_liangyinseF</eng>
+		<chn>铝制系列钢笔亮银色F</chn>
+		<Seqcode>4250278607302</Seqcode>
+	</product>
+	<product>
+		<eng>lvzhigangbi_skyblueF</eng>
+		<chn>铝制系列钢笔天空蓝F</chn>
+		<Seqcode>4250278612023</Seqcode>
+	</product>
+	<product>
+		<eng>lvzhigangbi_grayF</eng>
+		<chn>铝制系列钢笔灰色F</chn>
+		<Seqcode>4250278600297</Seqcode>
+	</product>
+	<product>
+		<eng>changkuangangbishangmoqixuanzhuan</eng>
+		<chn>长款钢笔上墨器（旋转）</chn>
+		<Seqcode>4250278607579</Seqcode>
+	</product>
+	<product>
+		<eng>lutongsuishengangbiFjian</eng>
+		<chn>露铜随身钢笔F尖</chn>
+		<Seqcode>4718862000170</Seqcode>
+	</product>
+	<product>
+		<eng>HTZfugubiaoqianpai</eng>
+		<chn>黄铜制复古标签牌</chn>
+		<Seqcode>4902805820226</Seqcode>
+	</product>
+	<product>
+		<eng>HTZfugusuoyinjia</eng>
+		<chn>黄铜制复古索引夹</chn>
+		<Seqcode>4902805432108</Seqcode>
+	</product>
+	<product>
+		<eng>HTZtuyamobanshuqianzimutuan</eng>
+		<chn>黄铜制涂鸦模板书签字母图案</chn>
+		<Seqcode>4902805421690</Seqcode>
+	</product>
+	<product>
+		<eng>HTZtuyamobanshuqianshuzituan</eng>
+		<chn>黄铜制涂鸦模板书签数字图案</chn>
+		<Seqcode>4902805421683</Seqcode>
+	</product>
+	<product>
+		<eng>huangtonggangbihuangtongF</eng>
+		<chn>黄铜系列钢笔黄铜F</chn>
+		<Seqcode>4250278610821</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_baimawangzi</eng>
+		<chn>&quot;绕圈音乐铃 / 白马王子&quot; 1033243&quot;</chn>
+		<Seqcode>6950664629564</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_sanlunchejiehun</eng>
+		<chn>三轮车音乐铃 / PD)新郎新娘</chn>
+		<Seqcode>6950664626594</Seqcode>
+	</product>
+	<product>
+		<eng>dongwumusicbox_bear</eng>
+		<chn>动物音乐铃 / 小熊</chn>
+		<Seqcode>6950664618728</Seqcode>
+	</product>
+	<product>
+		<eng>dongwumusicbox_pig</eng>
+		<chn>动物音乐铃 / 小猪</chn>
+		<Seqcode>6950664612948</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_xiong</eng>
+		<chn>双旋转音乐铃 / PD)小熊乐队</chn>
+		<Seqcode>6950664626570</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_baiqiumao</eng>
+		<chn>双旋转音乐铃 / PD)祝福猫咪</chn>
+		<Seqcode>6950664635183</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_monkey</eng>
+		<chn>吊单杠音乐铃 / 大猩猩 1033420</chn>
+		<Seqcode>6950664663452</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_london</eng>
+		<chn>城市音乐铃 / PD)伦敦</chn>
+		<Seqcode>6950664626686</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_jingyu</eng>
+		<chn>多旋轉音樂鈴 / 水手白鯨</chn>
+		<Seqcode>6950664667689</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_qiqiumao</eng>
+		<chn>多旋轉音樂鈴 / 貓咪禮物祝福</chn>
+		<Seqcode>6950664658151</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_yusan</eng>
+		<chn>多旋转音乐铃 / 爱的小雨伞 1033913</chn>
+		<Seqcode>6950664629595</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_babybed</eng>
+		<chn>多旋转音乐铃/婴儿床 1060508</chn>
+		<Seqcode>6950664659486</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_muma</eng>
+		<chn>多旋转音乐铃/婴儿诞生</chn>
+		<Seqcode>6950664658137</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_hutaojia</eng>
+		<chn>多旋转音乐铃/胡桃夹</chn>
+		<Seqcode>6950664665333</Seqcode>
+	</product>
+	<product>
+		<eng>xiaomuhe_love</eng>
+		<chn>小木盒音乐铃 / 爱心对杯</chn>
+		<Seqcode>6950664602383</Seqcode>
+	</product>
+	<product>
+		<eng>xiaomuhe_cake</eng>
+		<chn>小木盒音乐铃 / 蛋糕</chn>
+		<Seqcode>6950664602369</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_motianlunbai</eng>
+		<chn>摩天轮音乐铃 / 星星</chn>
+		<Seqcode>6950664618537</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_motianlunhei</eng>
+		<chn>新城市音乐铃 / 游乐园摩天轮 1060110</chn>
+		<Seqcode>6950664658298</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_machechengbao</eng>
+		<chn>新城市音乐铃/N)城堡马车 1060101</chn>
+		<Seqcode>6950664658601</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_huoche</eng>
+		<chn>新城市音乐铃/N)阿里山</chn>
+		<Seqcode>6950664662400</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_qiuqian</eng>
+		<chn>新城市音乐铃/欢乐荡秋千</chn>
+		<Seqcode>6950664658168</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_fengche</eng>
+		<chn>新城市音樂鈴 / N)農莊</chn>
+		<Seqcode>6950664658618</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_meirenyu</eng>
+		<chn>繞圈音樂鈴/美人魚</chn>
+		<Seqcode>6950664665357</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_taikong</eng>
+		<chn>绕圈音乐铃/外太空庆生</chn>
+		<Seqcode>6950664669515</Seqcode>
+	</product>
+	<product>
+		<eng>musicbox_robot</eng>
+		<chn>走路音乐铃 / 机器人2 1034902</chn>
+		<Seqcode>6950664641207</Seqcode>
+	</product>
+</collection>

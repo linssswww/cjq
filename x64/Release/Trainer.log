@@ -1,0 +1,10 @@
+﻿  mainwindow.cpp
+d:\workfile\cgd\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\cgd\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+mainwindow.cpp(69): warning C4100: “param”: 未引用的形参
+mainwindow.cpp(74): warning C4100: “param”: 未引用的形参
+mainwindow.cpp(78): warning C4100: “param”: 未引用的形参
+mainwindow.cpp(219): warning C4100: “index”: 未引用的形参
+mainwindow.cpp(243): warning C4100: “index”: 未引用的形参
+mainwindow.cpp(575): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  Trainer.vcxproj -> D:\workfile\CGD\Trainner\release\Trainer.exe

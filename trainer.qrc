@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/Trainer">
+        <file>Resource/rotation1.png</file>
+        <file>Resource/rotation2.png</file>
+    </qresource>
+</RCC>

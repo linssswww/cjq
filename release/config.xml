@@ -1,0 +1,6 @@
+<settings>
+	<light port="COM3" BaudRate="9600" DataBits="8" StopBits="1" Parity="2"/>
+	<motioncontrol vel="50000" pulsperangle="2844"/>
+</settings>
+<Lights>
+</Lights>

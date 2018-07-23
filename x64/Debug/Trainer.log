@@ -1,0 +1,77 @@
+﻿  Moc'ing loginWidget.h...
+  Moc'ing SetPathWidget.h...
+  Moc'ing LightControl.h...
+  Moc'ing mainwindow.h...
+  Uic'ing mainwindow.ui...
+  Uic'ing Dialog.ui...
+  Uic'ing loginWidget.ui...
+  Rcc'ing trainer.qrc...
+  Uic'ing Widget.ui...
+  Uic'ing SetPathWidget.ui...
+  ae.cpp
+ae.cpp(32): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+ae.cpp(57): warning C4244: “return”: 从“int”转换到“float”，可能丢失数据
+  dwb.cpp
+dwb.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+dwb.cpp(311): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+dwb.cpp(441): warning C4189: “jj”: 局部变量已初始化但不引用
+dwb.cpp(440): warning C4189: “ii”: 局部变量已初始化但不引用
+  excelengine.cpp
+excelengine.cpp(319): warning C4100: “ee”: 未引用的形参
+  moc_LightControl.cpp
+  moc_loginWidget.cpp
+d:\workfile\code\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\mainwindow.h(14): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  moc_mainwindow.cpp
+d:\workfile\code\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\generatedfiles\debug\../../mainwindow.h(14): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  moc_SetPathWidget.cpp
+  LightControl.cpp
+LightControl.cpp(40): warning C4838: 从“int”转换到“unsigned char”需要收缩转换
+LightControl.cpp(50): warning C4100: “channel”: 未引用的形参
+  loginWidget.cpp
+d:\workfile\code\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\mainwindow.h(14): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  main.cpp
+d:\workfile\code\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\mainwindow.h(14): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  mainwindow.cpp
+d:\workfile\code\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\dwb.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\workfile\code\trainner\mainwindow.h(14): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+mainwindow.cpp(178): warning C4100: “param”: 未引用的形参
+mainwindow.cpp(183): warning C4100: “param”: 未引用的形参
+mainwindow.cpp(187): warning C4100: “param”: 未引用的形参
+mainwindow.cpp(270): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+mainwindow.cpp(336): warning C4100: “item”: 未引用的形参
+mainwindow.cpp(404): warning C4189: “rows”: 局部变量已初始化但不引用
+mainwindow.cpp(405): warning C4189: “cols”: 局部变量已初始化但不引用
+mainwindow.cpp(467): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+mainwindow.cpp(480): warning C4566: 由通用字符名称“\u00A0”表示的字符不能在当前代码页(936)中表示出来
+mainwindow.cpp(639): warning C4100: “index”: 未引用的形参
+mainwindow.cpp(663): warning C4100: “index”: 未引用的形参
+mainwindow.cpp(750): warning C4189: “tableWidget”: 局部变量已初始化但不引用
+mainwindow.cpp(1097): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  motioncard.cpp
+  SetPathWidget.cpp
+  UsbCamera.cpp
+d:\workfile\code\trainner\inc\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+UsbCamera.cpp(107): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+UsbCamera.cpp(225): warning C4189: “fp”: 局部变量已初始化但不引用
+  正在生成代码...
+d:\workfile\code\trainner\mainwindow.cpp(471): warning C4715: “<lambda_3f45d683f92b4b92c4209214380152b0>::operator()”: 不是所有的控件路径都返回值
+d:\workfile\code\trainner\mainwindow.cpp(818): warning C4715: “<lambda_ef1268f463b92f38fbd7de1a9258a9fb>::operator()”: 不是所有的控件路径都返回值
+d:\workfile\code\trainner\dwb.cpp(503): warning C4715: “DWB::threshImgSelectWhite”: 不是所有的控件路径都返回值
+  qrc_trainer.cpp
+Qt5AxContainerd.lib(qaxbase.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxbase.obj)”或在“D:\workfile\code\Trainner\debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxobject.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxobject.obj)”或在“D:\workfile\code\Trainner\debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxtypes.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxtypes.obj)”或在“D:\workfile\code\Trainner\debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxContainerd.lib(qaxutils.obj) : warning LNK4099: 未找到 PDB“Qt5AxContainerd.pdb”(使用“Qt5AxContainerd.lib(qaxutils.obj)”或在“D:\workfile\code\Trainner\debug\Qt5AxContainerd.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+Qt5AxBased.lib(qaxtypefunctions.obj) : warning LNK4099: 未找到 PDB“Qt5AxBased.pdb”(使用“Qt5AxBased.lib(qaxtypefunctions.obj)”或在“D:\workfile\code\Trainner\debug\Qt5AxBased.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Trainer.vcxproj -> D:\workfile\code\Trainner\debug\Trainer.exe
+  Trainer.vcxproj -> debug\Trainer.pdb (Full PDB)
